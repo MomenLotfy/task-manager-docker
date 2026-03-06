@@ -1,0 +1,30 @@
+# ══════════════════════════════════════════════════
+#                     .dockerignore 
+# ══════════════════════════════════════════════════
+
+# SECRETS — never put secrets in Docker image
+.env
+ssl/
+
+# Git files 
+.git
+.gitignore
+
+# Python cache files 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Testing & dev files
+*.test
+tests/
+.pytest_cache/
+
+# Documentation
+*.md
+README*
+
+.vscode/
+.idea/

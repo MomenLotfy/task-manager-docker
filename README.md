@@ -16,7 +16,6 @@
 
 <br/>
 
-*Docker Advanced Course — Lab 7*
 
 </div>
 

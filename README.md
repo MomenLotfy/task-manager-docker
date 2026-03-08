@@ -338,7 +338,6 @@ docker compose down -v && docker compose up -d --build
 
 <div align="center">
 
-**Docker Advanced Course · Lab 7**
 
 Made with 🐳 by [Momen Lotfy](https://github.com/MomenLotfy)
 
